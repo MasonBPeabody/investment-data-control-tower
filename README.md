@@ -33,3 +33,25 @@ Instructions will be added as the pipeline is implemented.
 
 ## Status
 Project scaffold created. Data ingestion, reconciliation, and reporting logic in progress.
+
+# Business Context and Objectives
+
+## Objective
+Provide a transparent, auditable framework for validating investment positions and cash across multiple source systems.
+
+## Stakeholders
+- Investment Operations
+- Fund Accounting
+- Data Engineering
+- Reporting & Analytics
+
+## Scope
+- Trade ingestion
+- Position and cash reconciliation
+- Exception reporting
+- Data quality validation
+
+## Out of Scope
+- Real-time trading
+- Proprietary platform logic
+- Production credentials
